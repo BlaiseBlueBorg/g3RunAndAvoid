@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Pipieline Ignores
+Pipeline/*/*.blend
+Pipeline/*/*.blend1
+Pipeline/*/Source/
+Pipeline/*/*.fbx
+Pipeline/*/*.fbm
